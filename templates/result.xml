@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <code>{{ result.0 }}</code>
+    <msg>{{ result.1 }}</msg>
+    <data>{{ result.2 }}</data>
+</result>
